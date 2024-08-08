@@ -11681,3 +11681,8 @@ pre .code {
   display: block;
   margin-top: 10px;
 }
+#more {display: none;}
+#more-skills {display: none;}
+#more-hotel {display: none;}
+#more-school {display: none;}
+#more-data {display: none;}
