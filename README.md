@@ -1,1 +1,1 @@
-# linganiso-solethu.github.io
+# linganisosolethu
